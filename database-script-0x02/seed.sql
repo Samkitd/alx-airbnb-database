@@ -1,5 +1,5 @@
 INSERT INTO "User" (user_id, first_name, last_name, email, password_hash, phone_number, role, created_at) VALUES
-('11111111-1111-1111-1111-11111111111', 'Alice', 'Smith', 'alice@example.com', 'hashedpassword1', '1234567890', 'guest', CURRENT_TIMESTAMP),
+('11111111-1111-1111-1111-111111111111', 'Alice', 'Smith', 'alice@example.com', 'hashedpassword1', '1234567890', 'guest', CURRENT_TIMESTAMP),
 ('22222222-2222-2222-2222-222222222222', 'Bob', 'Johnson', 'bob@example.com', 'hashedpassword2', '0987654321', 'host', CURRENT_TIMESTAMP),
 ('33333333-3333-3333-3333-333333333333', 'Carol', 'Admin', 'carol@example.com', 'hashedpassword3', NULL, 'admin', CURRENT_TIMESTAMP);
 
