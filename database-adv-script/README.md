@@ -12,6 +12,8 @@
 
 ✅ Great for identifying unrated properties or displaying all listings.
 
+📋 Includes ORDER BY to sort properties alphabetically by name.
+
 # 3. FULL OUTER JOIN – Users & Bookings
 🔍 Purpose: Shows all users and all bookings — even unmatched ones.
 
